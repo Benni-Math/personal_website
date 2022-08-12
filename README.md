@@ -6,3 +6,6 @@ own flair (TypeScript and such).
 
 Mostly a collection of projects -- checkout my `personal_projects` repo as
 well!
+
+Will be adding WASM and possibly other fun things in later, so that I can showcase some
+other projects
