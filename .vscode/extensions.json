@@ -4,5 +4,8 @@
     "dbaeumer.vscode-eslint",
     "EditorConfig.EditorConfig",
     "mikestead.dotenv",
+    "Prisma.prisma",
+    "streetsidesoftware.code-spell-checker",
+    "wayou.vscode-todo-highlight",
   ]
 }
