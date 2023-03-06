@@ -23,3 +23,12 @@ I've integrated a plethora of developer tools, like
  - [ESLint](https://eslint.org)
  - [nvm](https://github.com/nvm-sh/nvm)
  - [create-t3-app](https://create.t3.gg/)
+
+
+## Development Guide
+
+To develop the website locally, make sure to have npm installed,
+and then use the following commands to run it:
+ 1. `npm install`
+ 1. `npx prisma db push`
+ 1. `npm run dev`
