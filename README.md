@@ -1,11 +1,25 @@
 # Ben's Personal Website
 
-My personal website, based on [this
-one](https://github.com/mldangelo/personal-site) and with a little bit of my
-own flair (TypeScript and such).
+My personal website.
 
-Mostly a collection of projects -- checkout my `personal_projects` repo as
-well!
+Built using
+ - [NextJS](https://nextjs.org)
+ - [TypeScript](https://www.typescriptlang.org)
+ - [Prisma](https://prisma.io)
+ - [tRPC](https://trpc.io)
+ - [Chakra UI](https://chakra-ui.com)
 
-Will be adding WASM and possibly other fun things in later, so that I can showcase some
-other projects
+For deployment, I plan on using:
+ - [Terraform](https://www.terraform.io)
+ - [NGINX](https://www.nginx.com)
+ - [SQLite](https://www.sqlite.org/index.html)
+ - [AWS](https://aws.amazon.com) (ECS, Lambda, Route 53, etc.)
+ - [Docker](https://www.docker.com)
+
+I've integrated a plethora of developer tools, like
+ - [VSCode](https://code.visualstudio.com)
+ - [EditorConfig](https://editorconfig.org)
+ - [dotenv](https://github.com/motdotla/dotenv)
+ - [ESLint](https://eslint.org)
+ - [nvm](https://github.com/nvm-sh/nvm)
+ - [create-t3-app](https://create.t3.gg/)

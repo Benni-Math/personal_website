@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "ahmadalli.vscode-nginx-conf",
+    "dbaeumer.vscode-eslint",
+    "EditorConfig.EditorConfig",
+    "mikestead.dotenv",
+  ]
+}
